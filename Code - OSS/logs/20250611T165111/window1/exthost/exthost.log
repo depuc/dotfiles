@@ -1,0 +1,10 @@
+2025-06-11 16:51:12.397 [info] Extension host with pid 8241 started
+2025-06-11 16:51:12.397 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-11 16:51:12.420 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-06-11 16:51:12.422 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-06-11 16:51:12.452 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-11 16:51:12.490 [info] Eager extensions activated
+2025-06-11 16:51:12.493 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 16:51:12.495 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 16:51:33.757 [info] Extension host terminating: renderer closed the MessagePort
+2025-06-11 16:51:33.760 [info] Extension host with pid 8241 exiting with code 0

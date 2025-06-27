@@ -1,0 +1,14 @@
+<application>
+  <component name="FindSettings">
+    <mask>*.pxi</mask>
+    <mask>*.pxd</mask>
+    <mask>*.pyx</mask>
+    <mask>*.pyi</mask>
+    <mask>*.ipynb</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.pyw</mask>
+    <mask>*.py</mask>
+  </component>
+</application>

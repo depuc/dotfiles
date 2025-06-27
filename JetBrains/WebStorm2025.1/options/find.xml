@@ -1,0 +1,19 @@
+<application>
+  <component name="FindSettings">
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.shtm</mask>
+    <mask>*.shtml</mask>
+    <mask>*.html</mask>
+    <mask>*.mts</mask>
+    <mask>*.ats</mask>
+    <mask>*.cts</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.mjs</mask>
+    <mask>*.es6</mask>
+    <mask>*.js</mask>
+  </component>
+</application>

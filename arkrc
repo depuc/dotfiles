@@ -1,0 +1,10 @@
+[ExtractDialog]
+1280x720 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled

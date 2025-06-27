@@ -1,0 +1,9 @@
+<application>
+  <component name="TerminalFontOptions">
+    <option name="VERSION" value="1" />
+    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_SIZE_2D" value="20.0" />
+    <option name="FONT_FAMILY" value="JetBrainsMono Nerd Font" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Regular" />
+  </component>
+</application>

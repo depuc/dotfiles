@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/WebstormProjects/basic">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2yxMufkFisQiGTeMeRqF8Vt4ykj">
+              <option name="activationTimestamp" value="1750776912140" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-251.26927.40" />
+              <option name="buildTimestamp" value="1750424280000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1750771994515" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/WebstormProjects/basic" />
+    <option name="lastProjectLocation" value="$USER_HOME$/WebstormProjects" />
+  </component>
+</application>

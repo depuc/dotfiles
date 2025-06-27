@@ -1,0 +1,4 @@
+2025-06-07 13:16:57.607 [info] Started initializing default profile extensions in extensions installation folder. file:///home/donk/.vscode-oss/extensions
+2025-06-07 13:16:57.645 [info] ComputeTargetPlatform: linux-x64
+2025-06-07 13:16:57.647 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/donk/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/donk/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2025-06-07 13:16:57.647 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/donk/.vscode-oss/extensions

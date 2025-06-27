@@ -1,0 +1,67 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="ActivateBookmarksToolWindow">
+      <i c="3" l="1750772057716" />
+    </e>
+    <e n="ActivateDebugToolWindow">
+      <i c="11" l="1750772063999" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="4" l="1750772065196" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="3" l="1750772055650" />
+    </e>
+    <e n="ActivateRunToolWindow">
+      <i c="7" l="1750772066327" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="10" l="1750772716936" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1750772620732" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1750772692763" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="1" l="1750774860768" />
+    </e>
+    <e n="NewElement">
+      <i c="2" l="1750772596646" />
+    </e>
+    <e n="NewHtmlFile">
+      <i c="1" l="1750772599468" />
+    </e>
+    <e n="Run">
+      <i c="19" l="1750774862706" />
+    </e>
+    <e n="com.intellij.ide.browsers.actions.OpenHtmlInEmbeddedBrowserAction">
+      <i c="1" l="1750774836101" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1750771869730" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="5" l="1750772800679" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="1" l="1750772589935" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="6" l="1750772077600" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1750771935290" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$EditButton">
+      <i c="1" l="1750772736130" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1750772807567" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$UpButton">
+      <i c="1" l="1750772789262" />
+    </e>
+  </component>
+</application>

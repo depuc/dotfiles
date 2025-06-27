@@ -1,0 +1,112 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>User defined</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="JCEF" />
+    <option name="uiLibraryChangedByUser" value="false" />
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AIHubNotificationManager.lastUsedLicenseType": "PRO_TRIAL",
+    "Educational.recentCoursesFilled": "true",
+    "Educational.stepikOAuthReset": "true",
+    "InstalledPluginsSearchHistory": "fo\nf",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
+    "MarketplacePluginsSearchHistory": "Jet\nJe\nJ\n/tag:Theme\nvim",
+    "PluginConfigurable.selectionTab": "1",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "PyPackageSearchTextField.history": "pillow\nflask_socke\nflask_so\nflask_\nflask\ncustomkinte\ncustomkinter\ncustom\ncust\npkin",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.deprecation.notification": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "SettingsSearchHistory": "venve\nfont colo\nfont\nfont size",
+    "WelcomeFeature.SHORT_WELCOME_GUIDE_SHOWN": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.251": "7",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "251.25410.159",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "5",
+    "fontSizeToResetConsole": "20.0",
+    "fontSizeToResetEditor": "20.0",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.python.uv.promo.tooltip": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "got.it.tooltip.trial.state.widget.trial.started.got.it.id": "1",
+    "ideavim.statistics.timestamp": "1750098435960",
+    "ignore.ide.script.launcher.used": "true",
+    "input.method.disabler.muted": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER_HIDDEN",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Catppuccin Mocha",
+    "python.new.interpreter.fav.manager": "VIRTUALENV",
+    "python.new.interpreter.fav.method": "CREATE_NEW",
+    "python.new.interpreter.fav.mode": "PROJECT_VENV",
+    "registry.to.advanced.settings.migration.build": "PY-251.25410.159",
+    "selected.color.option.type": "DEFAULT_KEYWORD",
+    "terminal.gen.one.option.visible": "false",
+    "trial.state.last.color.state.clicked": "true",
+    "trial.state.last.state": "ACTIVE",
+    "ts.lib.d.ts.version": "5.6.3",
+    "whats.new.last.shown.version": "2025-1.1.1-25410-021af14a652f32a159ff6212bf59642c6108e23f"
+  },
+  "keyToStringList": {
+    "AIHubNotificationManager.lastAllNotifications": [
+      "PRO_TRIAL_EXPIRING"
+    ],
+    "AIHubNotificationManager.notifications": [
+      "PRO_TRIAL_EXPIRING"
+    ],
+    "AIHubNotificationManager.seenNotifications": [],
+    "file.chooser.recent.files": [
+      "/home/donk/PycharmProjects/fonts"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

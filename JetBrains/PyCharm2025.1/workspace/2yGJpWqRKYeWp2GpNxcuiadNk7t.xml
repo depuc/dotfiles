@@ -1,0 +1,302 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="reaction_time_game" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1u8qlf94orah8" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"main.py","foregroundColor":-3287308,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Python": {
+      "usageCount": 4,
+      "lastUsed": 1749742886316
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/donk/PycharmProjects/reaction_time_game/main.py&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="4" lastUsage="1749742886318" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="reaction_time_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/donk/PycharmProjects/reaction_time_game}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reaction_time_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/donk/PycharmProjects/reaction_time_game}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/donk/PycharmProjects/reaction_time_game/.venv}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reaction_time_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="reaction_time_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.13 (reaction_time_game) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="reaction_time_game" />
+            <item name="reaction_time_game" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="reaction_time_game" />
+              <item name="dir{file:///home/donk/PycharmProjects/reaction_time_game}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.venv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".venv" />
+                <item name="dir{file:///home/donk/PycharmProjects/reaction_time_game/.venv}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.venv/bin" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="bin" />
+                  <item name="dir{file:///home/donk/PycharmProjects/reaction_time_game/.venv/bin}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.venv/lib" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="lib" />
+                  <item name="dir{file:///home/donk/PycharmProjects/reaction_time_game/.venv/lib}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.venv/.gitignore" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                  <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.venv/CACHEDIR.TAG" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/jsp.svg" iconPlugin="com.intellij" isLeaf="true" text="CACHEDIR.TAG" />
+                  <item name="CACHEDIR.TAG" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.venv/pyvenv.cfg" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/debugger/threads.svg" iconPlugin="com.intellij" isLeaf="true" text="pyvenv.cfg" />
+                  <item name="pyvenv.cfg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/main.py" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="main.py" />
+                <item name="main.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="icons/com/jetbrains/python/psi/python.svg" iconPlugin="PythonCore" isLeaf="false" text="&lt; Python 3.13 (reaction_time_game) &gt;" />
+                <item name="&lt; Python 3.13 (reaction_time_game) &gt;" type="70bed36:NamedLibraryElementNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$USER_HOME$/.cache/JetBrains/PyCharm2025.1/python_stubs/2126170466" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="Binary Skeletons" />
+                  <item name="dir{file:///home/donk/.cache/JetBrains/PyCharm2025.1/python_stubs/2126170466}" type="70582d5e:PySkeletonsNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="Extended Definitions" />
+                  <item name="dir{file:///home/donk/pycharm-2025.1.1.1/plugins/python-ce/helpers/python-skeletons}" type="51189727:PyUserSkeletonsNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="/usr/lib/python3.13/lib-dynload" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lib-dynload" />
+                  <item name="dir{file:///usr/lib/python3.13/lib-dynload}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="/usr/lib/python3.13" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="python3.13" />
+                  <item name="dir{file:///usr/lib/python3.13}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.venv/lib/python3.13/site-packages" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="site-packages" />
+                  <item name="dir{file:///home/donk/PycharmProjects/reaction_time_game/.venv/lib/python3.13/site-packages}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="Typeshed Stubs" />
+                  <item name="Typeshed Stubs" type="9c07c3ae:PyTypeShedNode" />
+                </presentation>
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.main" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15771000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Backup and Sync History" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21296296" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="HfCacheToolWindow" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.09095238" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.45287699" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.45287699" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="SciView" show_stripe_button="false" />
+      <window_info anchor="right" id="Jupyter Variables" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.45287699" left="0.21296296" right="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Python Packages</value>
+      <value>Problems View</value>
+      <value>Structure</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1808" height="414" key="GridCell.Tab.0.bottom" timestamp="1749489100251">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1808" height="414" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1749489100251" />
+    <state width="1808" height="414" key="GridCell.Tab.0.center" timestamp="1749489100251">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1808" height="414" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1749489100251" />
+    <state width="1808" height="414" key="GridCell.Tab.0.left" timestamp="1749489100251">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1808" height="414" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1749489100251" />
+    <state width="1808" height="414" key="GridCell.Tab.0.right" timestamp="1749489100251">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1808" height="414" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1749489100251" />
+    <state x="469" y="211" key="SettingsEditor" timestamp="1749743070427">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="211" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1749743070427" />
+    <state x="693" y="267" width="524" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1749488330650">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="267" width="524" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1749488330650" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

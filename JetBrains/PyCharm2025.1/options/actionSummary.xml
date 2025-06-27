@@ -1,0 +1,235 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="13" l="1749760547713" />
+    </e>
+    <e n="AIAssistantHubPopupAction">
+      <i c="3" l="1749840357944" />
+    </e>
+    <e n="ActivateBookmarksToolWindow">
+      <i c="9" l="1750103417611" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="2" l="1749454203568" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="5" l="1750103280006" />
+    </e>
+    <e n="ActivateRunToolWindow">
+      <i c="1" l="1749454204385" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="5" l="1750103290316" />
+    </e>
+    <e n="Back">
+      <i c="1" l="1749456774976" />
+    </e>
+    <e n="ChangeLaf">
+      <i c="5" l="1749644548111" />
+    </e>
+    <e n="CollapseAllRegions">
+      <i c="7" l="1749476025039" />
+    </e>
+    <e n="CopyAbsolutePath">
+      <i c="1" l="1749837375700" />
+    </e>
+    <e n="CopyReferencePopupGroup">
+      <i c="1" l="1749837373291" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="804" l="1750103553219" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="27" l="1750103351189" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1749462107899" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1749459892064" />
+    </e>
+    <e n="EditorDelete">
+      <i c="3" l="1750098659108" />
+    </e>
+    <e n="EditorDown">
+      <i c="50" l="1750102070497" />
+    </e>
+    <e n="EditorEnter">
+      <i c="121" l="1750103512246" />
+    </e>
+    <e n="EditorEscape">
+      <i c="208" l="1750103553410" />
+    </e>
+    <e n="EditorIncreaseFontSizeGlobal">
+      <i c="15" l="1749456787228" />
+    </e>
+    <e n="EditorLeft">
+      <i c="3" l="1749840464468" />
+    </e>
+    <e n="EditorRight">
+      <i c="7" l="1750103399848" />
+    </e>
+    <e n="EditorTab">
+      <i c="26" l="1750103393222" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1749460504452" />
+    </e>
+    <e n="EditorUp">
+      <i c="17" l="1749839531988" />
+    </e>
+    <e n="ExpandAllRegions">
+      <i c="3" l="1749644673013" />
+    </e>
+    <e n="GotoFile">
+      <i c="1" l="1749748955761" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="4" l="1749460568507" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="54" l="1750103513966" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1749644991544" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="5" l="1750098408851" />
+    </e>
+    <e n="NewElement">
+      <i c="10" l="1750102725342" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="8" l="1750102726868" />
+    </e>
+    <e n="NewStylesheetFile">
+      <i c="1" l="1749753204758" />
+    </e>
+    <e n="NewTypeScriptFile">
+      <i c="1" l="1749753121807" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1749837215733" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="40" l="1750103557455" />
+    </e>
+    <e n="PyPackageToolbarAdditional">
+      <i c="1" l="1749749131142" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1749749865760" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1749753160243" />
+    </e>
+    <e n="Run">
+      <i c="101" l="1750102893402" />
+    </e>
+    <e n="SaveAll">
+      <i c="2" l="1749749485038" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="22" l="1750098003668" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1749760245150" />
+    </e>
+    <e n="ShowSettings">
+      <i c="5" l="1749837259638" />
+    </e>
+    <e n="Stop">
+      <i c="56" l="1750103598252" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1750103518490" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="2" l="1749471532870" />
+    </e>
+    <e n="TrialStateWidget">
+      <i c="2" l="1749453865498" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="6" l="1750098006011" />
+    </e>
+    <e n="com.intellij.codeInsight.inline.completion.tooltip.InlineCompletionPopupActionGroup">
+      <i c="1" l="1750098986634" />
+    </e>
+    <e n="com.intellij.execution.actions.RunCurrentFileExecutorAction">
+      <i c="1" l="1749749870071" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="11" l="1750103570004" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="2" l="1749843951700" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$1">
+      <i c="2" l="1749644521700" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$LafChangeAction">
+      <i c="2" l="1749644313726" />
+    </e>
+    <e n="com.intellij.ide.lightEdit.LightEditTabs$CloseTabAction">
+      <i c="1" l="1749657157573" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1749451711779" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="912" l="1750103553217" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="4" l="1749755825579" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="5" l="1749757692162" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="6" l="1749752140510" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="14" l="1750103622464" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="2" l="1749644539701" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$2">
+      <i c="2" l="1750097953963" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="24" l="1750103573569" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="12" l="1750098407118" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1749451772974" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1749451714262" />
+    </e>
+    <e n="com.intellij.psi.css.browse.CssColorGutterRenderer$1">
+      <i c="4" l="1749844798461" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1749460847149" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="11" l="1749840588804" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1749474433853" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="1" l="1749837274188" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="12" l="1749841058738" />
+    </e>
+    <e n="org.jetbrains.completion.full.line.impl.platform.inline.FullLineInlineCompletionProviderPresentation$GoToPluginDescription">
+      <i c="1" l="1750098989142" />
+    </e>
+  </component>
+</application>

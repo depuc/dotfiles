@@ -1,0 +1,14 @@
+# User/machine-specific configs
+dconf/
+pulse/
+session/
+trashrc
+user-dirs.*
+mimeapps.list
+cfg_backups/
+ngrok/
+
+# Potentially sensitive or irrelevant
+code-flags.conf
+kde.org/
+

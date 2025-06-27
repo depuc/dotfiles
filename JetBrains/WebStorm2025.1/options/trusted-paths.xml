@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$APPLICATION_CONFIG_DIR$/light-edit" value="true" />
+        <entry key="$USER_HOME$/Documents" value="true" />
+        <entry key="$USER_HOME$/Documents/CHAT_ROOM" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/Chat_Room" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/PythonProject" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/SnakeGame" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/fonts" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/reaction_time_game" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/todo" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/basic" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

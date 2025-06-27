@@ -1,0 +1,5 @@
+<application>
+  <component name="LLMSettings">
+    <option name="custom_chat_instruction_was_shown" value="true" />
+  </component>
+</application>
