@@ -1,6 +1,6 @@
 set recolor              true
 set recolor-keephue      true
-set default-bg           "#1e1e2e"
+set default-bg           "#8a4568i"
 set default-fg           "#cdd6f4"
 set statusbar-bg         "#11111b"
 set statusbar-fg         "#cdd6f4"
@@ -27,9 +27,11 @@ set inputbar-bg                 "#26354b"
 set inputbar-fg                 "#E5E5E5"
 set statusbar-bg                "#26354b"
 set statusbar-fg                "#93a1a1"
-set highlight-color             "#268bd2"
-set highlight-active-color      "#074D40"
+set highlight-color             "#00FF0080"
+set highlight-active-color      "#00FF0080"    
 set default-bg                  "#101a2c"
 set default-fg                  "#101a2c"
 set recolor-lightcolor          "#101a2c"
 set recolor-darkcolor           "#E5E5E5"
+set recolor "true"
+
