@@ -1,3 +1,4 @@
+set runtimepath+=~/.vim
 " Load the hyde config
 let s:VIM_DIR = fnamemodify($MYVIMRC, ':h')
 execute 'source ' . s:VIM_DIR . '/hyde.vim'
@@ -11,3 +12,14 @@ execute 'source ' . s:VIM_DIR . '/hyde.vim'
 "nnoremap ; :
 "vnoremap ; :
 command! -nargs=+ Rpl execute '%s/\V\<'.split(<q-args>)[0].'\>/'.split(<q-args>)[1].'/g'
+" Load vim-plug
+call plug#begin('~/.vim/plugged')
+
+" Example plugin: GitHub Copilot
+Plug 'github/copilot.vim'
+
+" Or Coc.nvim for autocomplete
+" Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+call plug#end()
+
